@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fetch Rewards Coding Exercise</string>
+
+    <string name="error_retrieving_candidates">Error retrieving candidates</string>
+    <string name="list_id">ListId: %d</string>
+    <string name="candidates">Candidates: %s</string>
+</resources>
